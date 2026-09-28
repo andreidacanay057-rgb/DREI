@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3574caf9.css",
+    "main.js": "/static/js/main.3c754d63.js",
+    "static/media/Baguio.jpg": "/static/media/Baguio.13aa850e489047cccea0.jpg",
+    "static/media/Leyte.jpg": "/static/media/Leyte.6e96358d95c428ae620a.jpg",
+    "static/media/Camiguin.jpg": "/static/media/Camiguin.bca15227faf7513753fa.jpg",
+    "static/media/Davao.jpg": "/static/media/Davao.2c041f717ebd11278099.jpg",
+    "static/media/Siargao.jpg": "/static/media/Siargao.c17ba8f6a894d0756eff.jpg",
+    "static/media/Boracay.jpg": "/static/media/Boracay.e2e5d811d98fd3dae272.jpg",
+    "static/media/Siquijor.jpg": "/static/media/Siquijor.6ebd1c85c0af71ab7b1e.jpg",
+    "static/media/palawan.jpg": "/static/media/palawan.d60289e662b6ef9dee19.jpg",
+    "static/media/vigan.jpg": "/static/media/vigan.5b7e471a349e5beaaeca.jpg",
+    "static/media/Sorsogon.jpg": "/static/media/Sorsogon.7268f46fdac01ee146ca.jpg",
+    "static/media/Samal.jpg": "/static/media/Samal.6f89a92aa53389e9dfbe.jpg",
+    "static/media/Batanes.jpg": "/static/media/Batanes.a2545c8ee8e762471610.jpg",
+    "static/media/Tagaytay.jpg": "/static/media/Tagaytay.5c14c8992bc4fc6c81aa.jpg",
+    "static/media/Cebu.jpg": "/static/media/Cebu.2ee434b49e8a71d78d0f.jpg",
+    "static/media/Zambales.jpg": "/static/media/Zambales.11d5daf45a25f8a94693.jpg",
+    "static/media/Apo Reef.jpg": "/static/media/Apo Reef.f2a34343cd5339ab4f16.jpg",
+    "static/media/Bohol.jpg": "/static/media/Bohol.66e715210a60da4bf780.jpg",
+    "static/media/Ilocos Norte.jpg": "/static/media/Ilocos Norte.b8b903f05ef202fd2819.jpg",
+    "static/media/Pangasinan.jpg": "/static/media/Pangasinan.cb88875113424651cea9.jpg",
+    "static/media/Surigao.jpg": "/static/media/Surigao.fa9009380f0f761a8203.jpg",
+    "index.html": "/index.html",
+    "main.3574caf9.css.map": "/static/css/main.3574caf9.css.map",
+    "main.3c754d63.js.map": "/static/js/main.3c754d63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3574caf9.css",
+    "static/js/main.3c754d63.js"
+  ]
+}
